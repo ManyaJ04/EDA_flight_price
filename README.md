@@ -90,6 +90,6 @@ This project performs **Exploratory Data Analysis (EDA)** on flight ticket price
 ---
 
 ## 📂 Project Structure  
-┣ 📜 flightprice.ipynb # Jupyter notebook with code
-┣ 📜 flight_price.xlsx # Dataset (if allowed)
-┣ 📜 README.md # Documentation
+- 📜 flightprice.ipynb # Jupyter notebook with code
+- 📜 flight_price.xlsx # Dataset (if allowed)
+- 📜 README.md # Documentation
